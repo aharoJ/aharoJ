@@ -42,7 +42,7 @@ editor:
 
 <!-- MID -->
 </td><td valign="top" width="50%">
-<h2 align="center"> <a href="https://aharoj.io"> opensource advocate </a> </h2>
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource"> opensource advocate </a> </h2>
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
 

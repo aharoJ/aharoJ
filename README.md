@@ -69,12 +69,11 @@
 
 
 <h2 align="center"> <a href="https://github.com/aharoJ/opensource"> opensource advocate </a> </h2>
-
+<h4 align="center"> <a> An open source advocate, committed to sharing my knowledge and expertise with the community. </a> </h4>
+<h4 align="center"> <a> I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers. <a> </h4>
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 
-- An open source advocate, committed to sharing my knowledge and expertise with the community. 
-- I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 <!-- MID -->
 </td><td valign="top" width="50%">
 
@@ -88,6 +87,54 @@
 </tr></tr></table> 
 <br/>
 <!-- END -->
+
+
+
+
+<!-- START -->
+<table><tr><td valign="top" width="28%">
+<h2 align="center"> <a> opensource </a> </h2>
+
+
+<p align="center">
+<a href="https://github.com/aharoJ/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="full"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
+</a>
+</p>
+
+</td><td valign="top" width="28%">
+<h2 align="center"> <a> starship </a> </h2>
+
+
+<p align="center">
+<a href="https://github.com/aharoJ/dot-starship">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
+</a>
+</p>
+</td><td valign="top" width="33%">
+<h2 align="center"> <a> nextJs portfolio  </a> </h2>
+
+
+<p align="center">
+<a href="https://github.com/aharoJ/nextJs_portfolio">
+  <img style="display: block; margin: 0 auto;" width="250"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
+</a>
+</p>
+
+</tr></tr></table> 
+<br/>
+<!-- END -->
+
+
+
+
+
+
+
 
 
 

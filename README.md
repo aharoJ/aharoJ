@@ -179,6 +179,8 @@
 
 
 
+
+
 <!-- START -->
 <table><tr><td valign="top" width="28%">
 <h2 align="center"> <a> alacritty </a> </h2>
@@ -190,9 +192,9 @@
 
 
 <p align="center">
-<a href="https://github.com/aharoJ/dot-alacritty">
+<a href="https://github.com/aharoJ/nextJs_portfolio">
   <img style="display: block; margin: 0 auto;" width="250"
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-alacritty&theme=onedark" />
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
 </a>
 </p>
 

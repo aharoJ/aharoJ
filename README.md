@@ -130,7 +130,7 @@
 
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/yabai-skhd-config"> yabai  </a> </h2>
+<h2 align="center"> <a> yabai  </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">
   <img style="display: block; margin: 0 auto;" 

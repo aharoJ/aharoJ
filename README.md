@@ -83,7 +83,7 @@
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api?username=aharoJ" />
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=aharoJ&repo=opensource&theme=onedark" />
 </a>
 </p>
 

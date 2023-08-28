@@ -72,7 +72,7 @@
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community.
 <!-- START -->
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> opensource </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/opensource">
@@ -83,7 +83,7 @@
 </p>
 
 
-</td><td valign="top">
+</td><td valign="top" width="33%">
 <h2 align="center"> <a> starship </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/dot-starship">
@@ -93,7 +93,7 @@
 </p>
 
 
-</td><td valign="top">
+</td><td valign="top" width="33%">
 <h2 align="center"> <a> nextJs portfolio  </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/nextJs_portfolio">
@@ -109,7 +109,7 @@
 
 
 <!-- START -->
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> linksage </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">
@@ -119,7 +119,7 @@
 </p>
 
 
-</td><td valign="top">
+</td><td valign="top" width="33%">
 <h2 align="center"> <a> tmux </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/tmux-config">
@@ -129,7 +129,7 @@
 </p>
 
 
-</td><td valign="top" >
+</td><td valign="top" width="33%">
 <h2 align="center"> <a href="https://github.com/aharoJ/yabai-skhd-config"> yabai  </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">

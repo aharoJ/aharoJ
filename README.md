@@ -25,7 +25,11 @@
 ![Alt text](z/IMG_0252.JPG)
 </td><td valign="top" width="50%">
 
-![Alt text](<z/IMG_0790 2.jpg>)
+
+<p align="center">
+  <img width="400" src="z/IMG_0790 2.jpg" alt="Local Image Description" />
+</p>
+
 </tr></tr></table> 
 <!-- END -->
 

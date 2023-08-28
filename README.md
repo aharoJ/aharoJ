@@ -25,7 +25,7 @@
       <img src="z/tfhrc.jpg" alt="Image 1 Description" />
     </td>
     <td valign="top" width="50%">
-      <img width="540" height="360" src="z/work_flow.jpg" alt="Image 2 Description" />
+      <img height="1080" src="z/work_flow.jpg" alt="Image 2 Description" />
     </td>
   </tr>
 </table>

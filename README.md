@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="z/tfhrc.jpg" alt="Image 1 Description" />
+      <img src="z/tfhrc_selfie.png" alt="Image 1 Description" />
     </td>
     <td valign="top" width="50%">
-      <img height="520" src="z/work_flow.jpg" alt="Image 2 Description" />
+      <img src="z/workflow_selfie.png" alt="Image 2 Description" />
     </td>
   </tr>
 </table>

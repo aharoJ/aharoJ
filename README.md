@@ -22,7 +22,10 @@
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 
-![Alt text](z/IMG_0252.JPG)
+<p align="center">
+  <img width="400" src="z/IMG_0252.jpg" alt="Local Image Description" />
+</p>
+
 </td><td valign="top" width="50%">
 
 

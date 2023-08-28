@@ -22,7 +22,7 @@
 
 
 
-<h2 align="center"><a> Areas of Work </a> </h2>
+<h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
 <!-- START -->
 <table><tr><td valign="top" width="28%">
@@ -47,7 +47,8 @@
 </td><td valign="top" width="33%">
 <h2 align="center"> <a> video game enthusiast </a> </h2>
 
-- regional pro player for FIFA: 17 | 19 | 21
+- regional professional player for FIFA
+  -  17 | 19 | 21
 - top 13 % in COD, top 5 % in warzone, top 1 % in pubg
 - first person shooter kill-to-death ratio 2.43
 

@@ -70,55 +70,17 @@
 
 
 
-
-a.
-a.
-a.
-a.
-a.
-a.
-a.
-aa
-a.
-a.
-a.
-a.
-a.
-aa
-a.
-
-a.
-a.
-a.
-a.
-a.
-aa
-a.
-a.
-a.
-a.
-a.
-a.
-a.
-
-
 <!-- START -->
 <table><tr><td valign="top" width="50%">
-<h2 align="center"> about me </h2>
+<h2 align="center"> hehe </h2>
 
-- physical activities
-  - gym, soccer, boxing, skateboarding
-
-- anime enthusiast:
-  - vinland, fma, aot, demon slayer, psycho-pass
-
-- video game enthusiast: 
-  - regional pro player for FIFA: 17 | 19 | 21
-  - top 13 % in COD, top 5 % in warzone, top 1 % in pubg
-  - first person shooter kill-to-death ratio 2.43
-
-- editor
-  - photoshop, sony vegas pro, elgato, obs, youtube
+<p align="center">
+<a href="https://github.com/aharoJ/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="full"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=onedark" />
+</a>
+</p>
 
 
 <!-- MID -->

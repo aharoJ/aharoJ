@@ -28,7 +28,7 @@
 - skateboarding
 
 
-</td><td valign="top" width="15%">
+</td><td valign="top" width="20%">
 <h2 align="center"> <a> anime enthusiast </a> </h2>
 
 - vinland
@@ -46,7 +46,7 @@
 - obs
 - youtube
 
-</td><td valign="top" width="55%">
+</td><td valign="top" width="50%">
 <h2 align="center"> <a> video game enthusiast </a> </h2>
 
 - U.S. regional professional player in FIFA

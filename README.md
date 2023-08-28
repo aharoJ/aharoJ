@@ -18,19 +18,18 @@
 
 
 
-
 <!-- START -->
-<table><tr><td valign="top" width="55%">
-
-![Alt text](z/tfhrc.jpg)
-
-</td><td valign="top" width="45%">
-
-![Alt text](z/work_flow.jpg)
-
-</tr></tr></table> 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img width="540" height="360" src="/Users/aharo/desk/myrepositories/specialrepo/z/tfhrc.jpg" alt="Image 1 Description" />
+    </td>
+    <td valign="top" width="50%">
+      <img width="540" height="360" src="/Users/aharo/desk/myrepositories/specialrepo/z/work_flow.jpg" alt="Image 2 Description" />
+    </td>
+  </tr>
+</table>
 <!-- END -->
-
 
 
 

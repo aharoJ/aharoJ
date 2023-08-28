@@ -23,7 +23,7 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  <img width="400" src="z/IMG_0252.jpg" alt="Local Image Description" />
+  <img width="400" src="z/IMG_0252.JPG" alt="Local Image Description" />
 </p>
 
 </td><td valign="top" width="50%">

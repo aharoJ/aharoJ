@@ -45,6 +45,9 @@
 <h2 align="center"><a> about me 🧍‍♂️ </a> </h2>
 
 - I plan to pursue a PhD in computer science and become a professor where I can share my knowledge and passion for technology with future generations.
+- Passionate for software architecture, machine learning, pipelines, and hacking
+- I am committed to life long learning and embody Albert Einsteins words:
+  - Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
 
 <!-- START -->
 <table><tr><td valign="top" width="15%">

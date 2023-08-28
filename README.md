@@ -21,10 +21,10 @@
 <!-- START -->
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <img src="z/tfhrc.jpg" alt="Image 1 Description" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <img height="520" src="z/work_flow.jpg" alt="Image 2 Description" />
     </td>
   </tr>

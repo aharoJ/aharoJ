@@ -42,9 +42,10 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h1 align="center"><a> about Me 🧍‍♂️ </a> </h1>
+<h2 align="center"><a> about me 🧍‍♂️ </a> </h2>
+
 - I plan to pursue a PhD in computer science and become a professor where I can share my knowledge and passion for technology with future generations.
-- 
+
 <!-- START -->
 <table><tr><td valign="top" width="15%">
 <h2 align="center"> <a> physical activities </a> </h2>
@@ -83,7 +84,6 @@
 - top 1 % in pubg
 - FPS kill-to-death ratio 2.43
 </tr></tr></table> 
-<br/>
 <br/>
 <br/>
 <!-- END -->

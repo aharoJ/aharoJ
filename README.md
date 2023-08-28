@@ -20,11 +20,11 @@
 
 
 <!-- START -->
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 ![Alt text](z/tfhrc.jpg)
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 ![Alt text](z/work_flow.jpg)
 

@@ -69,9 +69,7 @@
 
 
 <h2 align="center"> <a href="https://github.com/aharoJ/opensource"> opensource advocate </a> </h2>
-
 - An open source advocate, committed to sharing my knowledge and expertise with the community.
-- I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.
 <!-- START -->
 <table><tr><td valign="top" width="28%">
 <h2 align="center"> <a> opensource </a> </h2>

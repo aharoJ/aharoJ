@@ -78,7 +78,7 @@
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=onedark" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
 </a>
 </p>
 
@@ -88,7 +88,7 @@
 <p align="center">
 <a href="https://github.com/aharoJ/dot-starship">
   <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=dracula" />
 </a>
 </p>
 
@@ -98,7 +98,7 @@
 <p align="center">
 <a href="https://github.com/aharoJ/nextJs_portfolio">
   <img style="display: block; margin: 0 auto;" width="250"
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=dracula" />
 </a>
 </p>
 
@@ -114,7 +114,7 @@
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">
   <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=onedark" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=dracula" />
 </a>
 </p>
 
@@ -124,7 +124,7 @@
 <p align="center">
 <a href="https://github.com/aharoJ/tmux-config">
   <img style="display: block; margin: 0 auto;" width="250"
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=tmux-config&theme=onedark" />
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=tmux-config&theme=dracula" />
 </a>
 </p>
 
@@ -134,7 +134,7 @@
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">
   <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=yabai-skhd-config&theme=onedark" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=yabai-skhd-config&theme=dracula" />
 </a>
 </p>
 </tr></tr></table> 

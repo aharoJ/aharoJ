@@ -237,11 +237,11 @@
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <!-- START  -->
 <div align="center">
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharoJ&layout=donut&theme=dracula" width="700" />
 <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=aharoJ&theme=rogue"/>
 <!-- MID -->
-</td><td valign="top" width="45%">
+</td><td valign="top" width="50%">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=aharoJ&show_icons=true&theme=dracula" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharoJ&theme=dracula" />
 </div>

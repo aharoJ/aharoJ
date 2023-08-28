@@ -72,8 +72,6 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="50%">
-<h2 align="center"> hehe </h2>
-
 <p align="center">
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
@@ -82,18 +80,16 @@
 </a>
 </p>
 
-
 <!-- MID -->
 </td><td valign="top" width="50%">
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
-
 - My open source materials, including documentation, code, projects, and resources, cover a range of topics. 
-
 - Also includes machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
-
 - I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
+
 </tr></tr></table> 
+<br/>
 <!-- END -->
 
 

@@ -18,6 +18,28 @@
 
 
 
+
+<!-- START -->
+<table><tr><td valign="top" width="50%">
+
+![Alt text](z/IMG_0252.JPG)
+</td><td valign="top" width="50%">
+
+![Alt text](<z/IMG_0790 2.jpg>)
+</tr></tr></table> 
+<!-- END -->
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
@@ -162,12 +184,11 @@
 <div align="center">
 <table><tr><td valign="top" width="55%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharoJ&layout=donut&theme=dracula" width="700" />
-
+<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=aharoJ&theme=rogue"/>
 <!-- MID -->
 </td><td valign="top" width="45%">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=aharoJ&show_icons=true&theme=dracula" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharoJ&theme=dracula" />
-<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=aharoJ&theme=rogue"/>
 </div>
 <!-- END  -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->

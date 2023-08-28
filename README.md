@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img width="540" height="360" src="/Users/aharo/desk/myrepositories/specialrepo/z/tfhrc.jpg" alt="Image 1 Description" />
+      <img width="540" height="360" src="z/tfhrc.jpg" alt="Image 1 Description" />
     </td>
     <td valign="top" width="50%">
-      <img width="540" height="360" src="/Users/aharo/desk/myrepositories/specialrepo/z/work_flow.jpg" alt="Image 2 Description" />
+      <img width="540" height="360" src="z/work_flow.jpg" alt="Image 2 Description" />
     </td>
   </tr>
 </table>

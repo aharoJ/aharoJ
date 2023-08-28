@@ -55,9 +55,7 @@
 - top 5 % in warzone
 - top 1 % in pubg
 - FPS kill-to-death ratio 2.43
-
 </tr></tr></table> 
-<br/>
 <!-- END -->
 
 

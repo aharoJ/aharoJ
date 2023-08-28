@@ -26,9 +26,8 @@
 
 </td><td valign="top" width="50%">
 
-![
-  
-](z/workflow.jpg)
+![Alt text](z/workflow.jpg)
+
 </tr></tr></table> 
 <!-- END -->
 

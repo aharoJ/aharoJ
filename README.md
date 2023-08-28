@@ -19,6 +19,93 @@
 
 
 
+
+
+
+<h2 align="center"><a> Areas of Work </a> </h2>
+
+<!-- START -->
+<table><tr><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/backend"> backend </a> </h2>
+
+- greaterbooks-applications
+- inbox-application
+- spring-boot
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/databases"> databases </a> </h2>
+
+- cassandraDB
+- mysql
+- postgresql
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/frontend"> frontend </a> </h2>
+
+- chatGPT3 (react)
+- nextJs
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/fullstack"> fullstack </a> </h2>
+
+- apple redesign
+- reverse engineering twitter
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/machine-learning"> machine learning  </h2>
+
+- linear regression
+- matplot
+- numpy
+- pandas
+- seaborn
+- [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/porfolio"> portfolio </a> </h2>
+
+- nextJs
+- react
+
+</tr></tr></table> 
+<br/>
+<!-- END -->
+
+
+
+
+
+a
+a
+a
+a
+aa
+a
+a
+aa
+a
+a
+a
+a
+a
+aa
+a
+
+a
+a
+a
+a
+a
+aa
+a
+a
+a
+a
+a
+a
+a
+
+
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 <h2 align="center"> about me </h2>

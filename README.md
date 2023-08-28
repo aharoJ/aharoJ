@@ -19,7 +19,7 @@
 <h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
 <!-- START -->
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="15%">
 <h2 align="center"> <a> physical activities </a> </h2>
 
 - gym
@@ -28,7 +28,7 @@
 - skateboarding
 
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="15%">
 <h2 align="center"> <a> anime enthusiast </a> </h2>
 
 - vinland
@@ -37,8 +37,16 @@
 - demon slayer
 - psycho-pass
 
+</td><td valign="top" width="15%">
+<h2 align="center"> <a> editor </h2>
 
-</td><td valign="top" width="60%">
+- photoshop
+- sony vegas pro
+- elgato
+- obs
+- youtube
+
+</td><td valign="top" width="55%">
 <h2 align="center"> <a> video game enthusiast </a> </h2>
 
 - U.S. regional professional player in FIFA
@@ -47,7 +55,6 @@
 - top 5 % in warzone
 - top 1 % in pubg
 - FPS kill-to-death ratio 2.43
-
 
 </tr></tr></table> 
 <br/>

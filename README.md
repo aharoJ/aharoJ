@@ -183,13 +183,10 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="28%">
-<h2 align="center"> <a> alacritty </a> </h2>
-
-
+<h2 align="center"> <a> nextJs portfolio </a> </h2>
 
 - I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. 
 - Through experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
-
 
 <p align="center">
 <a href="https://github.com/aharoJ/nextJs_portfolio">
@@ -197,8 +194,6 @@
    src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
 </a>
 </p>
-
-
 
 </td><td valign="top" width="28%">
 <h2 align="center"> <a> starship </a> </h2>
@@ -214,8 +209,6 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
 </a>
 </p>
-
-
 
 </td><td valign="top" width="33%">
 <h3 align="center"> <a href="https://github.com/aharoJ/aharoJ/universal-markdown-linker"> linksage  </a> </h3>
@@ -252,9 +245,56 @@
 
 
 
+<!-- START -->
+<table><tr><td valign="top" width="28%">
+<h2 align="center"> <a> starship </a> </h2>
+
+<h3 align="center"> <a href="https://github.com/aharoJ/dot-starship"> starship ✅ </a> </h3>
+
+- I have put in substantial effort into creating a unique and visually appealing starship configuration. 
+- My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
+
+<p align="center">
+<a href="https://github.com/aharoJ/dot-starship">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
+</a>
+</p>
+
+</td><td valign="top" width="28%">
+
+<h2 align="center"> <a> nextJs portfolio </a> </h2>
+
+- I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. 
+- Through experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
+
+<p align="center">
+<a href="https://github.com/aharoJ/nextJs_portfolio">
+  <img style="display: block; margin: 0 auto;" width="250"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
+</a>
+</p>
+
+
+</td><td valign="top" width="33%">
+<h3 align="center"> <a href="https://github.com/aharoJ/aharoJ/universal-markdown-linker"> linksage  </a> </h3>
+
+- As the [founder](https://www.linkedin.com/in/aharoJ/) of Universal Markdown Linker, I have developed and maintained an open-source Python script that streamlines the process of organizing markdown files. 
+
+- This tool ensures that all links remain functional, even if the file structure of your repository changes. With the Universal Markdown Linker, you no longer have to manually search for links, saving you time and effort.
+
+<p align="center">
+<a href="https://github.com/aharoJ/universal-markdown-linker">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=onedark" />
+</a>
+</p>
 
 
 
+</tr></tr></table> 
+<br/>
+<!-- END -->
 
 
 

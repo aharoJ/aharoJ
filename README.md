@@ -22,16 +22,12 @@
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 
-<p align="center">
-  <img width="400" src="z/IMG_0252.JPG" alt="Local Image Description" />
-</p>
+
+![Alt text](z/IMG_0252.JPG)
 
 </td><td valign="top" width="50%">
 
-
-<p align="center">
-  <img width="400" src="z/IMG_0790 2.jpg" alt="Local Image Description" />
-</p>
+![Alt text](<z/IMG_0790 2.jpg>)
 
 </tr></tr></table> 
 <!-- END -->

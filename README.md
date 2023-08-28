@@ -19,7 +19,7 @@
 <h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
 <!-- START -->
-<table><tr><td valign="top" width="28%">
+<table><tr><td valign="top" width="20%">
 <h2 align="center"> <a> physical activities </a> </h2>
 
 - gym
@@ -28,7 +28,7 @@
 - skateboarding
 
 
-</td><td valign="top" width="28%">
+</td><td valign="top" width="20%">
 <h2 align="center"> <a> anime enthusiast </a> </h2>
 
 - vinland
@@ -38,7 +38,7 @@
 - psycho-pass
 
 
-</td><td valign="top" >
+</td><td valign="top" width="60%">
 <h2 align="center"> <a> video game enthusiast </a> </h2>
 
 - U.S. regional professional player in FIFA

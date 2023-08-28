@@ -47,12 +47,11 @@
 </td><td valign="top" width="33%">
 <h2 align="center"> <a> video game enthusiast </a> </h2>
 
-- regional professional player for FIFA
+- U.S. regional professional player in FIFA
   -  17 | 19 | 21
-- top 13 % in COD
-- top 5 % in warzone
+- top 13 % in COD | top 5 % in warzone
 - top 1 % in pubg
-- first person shooter avg. kill-to-death ratio 2.43
+- FPS kill-to-death ratio 2.43
 
 </td><td valign="top" width="33%">
 <h2 align="center"> <a> editor </h2>

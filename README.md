@@ -25,7 +25,7 @@
 <h2 align="center"><a> Areas of Work </a> </h2>
 
 <!-- START -->
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="28%">
 <h2 align="center"> <a> physical activities </a> </h2>
 
 - gym

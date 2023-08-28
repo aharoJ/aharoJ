@@ -10,13 +10,10 @@
 <a href="https://twitter.com/aharoJ"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/aharoJ/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://leetcode.com/aharoJ/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-<br/>
+<h3 align="center"> <a href=https://aharoj.io> ··· VISIT PORTFOLIO ··· </a> </h3>
 </div>  
+<br/>
 <!-- END -->
-
-<h1 align="center"> <a href=https://aharoj.io> Visit Portfolio </a> </h1>
-
-
 
 
 
@@ -26,18 +23,18 @@
 <table><tr><td valign="top" width="50%">
 <h2 align="center"> about me </h2>
 
-physical activities: 
+- physical activities
   - gym, soccer, boxing, skateboarding
 
-anime enthusiast:
+- anime enthusiast:
   - vinland, fma, aot, demon slayer, psycho-pass
 
-video game enthusiast: 
+- video game enthusiast: 
   - regional pro player for FIFA: 17 | 19 | 21
   - top 13 % in COD, top 5 % in warzone, top 1 % in pubg
   - first person shooter kill-to-death ratio 2.43
 
-editor:
+- editor
   - photoshop, sony vegas pro, elgato, obs, youtube
 
 
@@ -216,6 +213,8 @@ editor:
 <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=aharoJ&theme=rogue"/>
 </div>
 <!-- END  -->
+
+
 
 
 

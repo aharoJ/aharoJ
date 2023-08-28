@@ -75,15 +75,7 @@
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=onedark" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/aharoJ/opensource">
-  <img style="display: block; margin: 0 auto;" 
-  width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook%0A&theme=dracula" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
 </a>
 </p>
 

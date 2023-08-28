@@ -75,7 +75,15 @@
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=highcontrast" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/aharoJ/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="full"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=radical" />
 </a>
 </p>
 

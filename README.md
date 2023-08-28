@@ -22,10 +22,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img width="400" src="z/tfhrc.jpg" alt="Image 1 Description" />
+      <img width="320" height="320" src="z/tfhrc.jpg" alt="Image 1 Description" />
     </td>
     <td valign="top" width="50%">
-      <img width="400" src="z/work_flow.jpg" alt="Image 2 Description" />
+      <img width="320" height="320" src="z/work_flow.jpg" alt="Image 2 Description" />
     </td>
   </tr>
 </table>

@@ -72,6 +72,14 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="50%">
+
+- An open source advocate, committed to sharing my knowledge and expertise with the community. 
+- My open source materials, including documentation, code, projects, and resources, cover a range of topics. 
+- Also includes machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
+- I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
+<!-- MID -->
+</td><td valign="top" width="50%">
+
 <p align="center">
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
@@ -79,14 +87,6 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
 </a>
 </p>
-<!-- MID -->
-</td><td valign="top" width="50%">
-
-- An open source advocate, committed to sharing my knowledge and expertise with the community. 
-- My open source materials, including documentation, code, projects, and resources, cover a range of topics. 
-- Also includes machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
-- I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
-
 </tr></tr></table> 
 <br/>
 <!-- END -->

@@ -79,7 +79,6 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
 </a>
 </p>
-
 <!-- MID -->
 </td><td valign="top" width="50%">
 
@@ -91,102 +90,6 @@
 </tr></tr></table> 
 <br/>
 <!-- END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- START  -->
-<table><tr><td valign="top" width="50%">
-<h2 align="center"> <a href="https://aharoj.io/projects"> active contributions </a> </h2>
-
-
-<h3 align="center"> <a href="https://github.com/aharoJ/dot-alacritty"> alacritty ✅ </a> </h3>
-
-- I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. 
-- Through experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
-
-
-<p align="center">
-<a href="https://github.com/aharoJ/dot-alacritty">
-  <img style="display: block; margin: 0 auto;" width="250"
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-alacritty&theme=onedark" />
-</a>
-</p>
-
----
-<h3 align="center"> <a href="https://github.com/aharoJ/dot-starship"> starship ✅ </a> </h3>
-
-- I have put in substantial effort into creating a unique and visually appealing starship configuration. 
-- My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
-
-<p align="center">
-<a href="https://github.com/aharoJ/dot-starship">
-  <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
-</a>
-</p>
-
----
-<h3 align="center"> <a href="https://github.com/aharoJ/dot-vivaldi"> vivaldi ✅ </a> </h3>
-
-- My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. 
-- I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
-
-
-<h3 align="center"> <a href="https://themes.vivaldi.net/themes/nV6vpPxDvdN"> official vivadi contribution  </a> </h3>
-
-
-<p align="center">
-<a href="https://github.com/aharoJ/dot-vivaldi">
-  <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-vivaldi&theme=onedark" />
-</a>
-</p>
-
-
----
-<h3 align="center"> <a href="https://github.com/aharoJ/aharoJ/universal-markdown-linker"> linksage ⏳ </a> </h3>
-
-- As the [founder](https://www.linkedin.com/in/aharoJ/) of Universal Markdown Linker, I have developed and maintained an open-source Python script that streamlines the process of organizing markdown files. 
-
-- This tool ensures that all links remain functional, even if the file structure of your repository changes. With the Universal Markdown Linker, you no longer have to manually search for links, saving you time and effort.
-
-<p align="center">
-<a href="https://github.com/aharoJ/universal-markdown-linker">
-  <img style="display: block; margin: 0 auto;" width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=onedark" />
-</a>
-</p>
-
-
-
---- 
-  <h3 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/dotfiles"> slowly merging all dotfiles/configs </a> </h3>
-</tr></tr></table> 
-<!-- END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -221,7 +124,6 @@
 </a>
 </p>
 
-
 </td><td valign="top" width="33%">
 <h3 align="center"> <a href="https://github.com/aharoJ/aharoJ/universal-markdown-linker"> linksage  </a> </h3>
 
@@ -235,8 +137,6 @@
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=onedark" />
 </a>
 </p>
-
-
 
 </tr></tr></table> 
 <br/>

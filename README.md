@@ -249,7 +249,7 @@
 <!-- START  -->
 <div align="center">
 <table><tr><td valign="top" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharoJ&theme=dracula" width="700" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharoJ&layout=donut&theme=dracula" width="700" />
 
 <!-- MID -->
 </td><td valign="top" width="45%">

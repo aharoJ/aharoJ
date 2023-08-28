@@ -96,6 +96,70 @@
 <table><tr><td valign="top" width="28%">
 <h2 align="center"> <a> starship </a> </h2>
 
+<p align="center">
+<a href="https://github.com/aharoJ/dot-starship">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=onedark" />
+</a>
+</p>
+
+</td><td valign="top" width="28%">
+<h2 align="center"> <a> nextJs portfolio </a> </h2>
+
+<p align="center">
+<a href="https://github.com/aharoJ/nextJs_portfolio">
+  <img style="display: block; margin: 0 auto;" width="250"
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=onedark" />
+</a>
+</p>
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a href="https://github.com/aharoJ/aharoJ/universal-markdown-linker"> linksage  </a> </h2>
+
+<p align="center">
+<a href="https://github.com/aharoJ/universal-markdown-linker">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=onedark" />
+</a>
+</p>
+
+</tr></tr></table> 
+<br/>
+<!-- END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- START -->
+<table><tr><td valign="top" width="28%">
+<h2 align="center"> <a> starship </a> </h2>
+
 <h3 align="center"> <a href="https://github.com/aharoJ/dot-starship"> starship ✅ </a> </h3>
 
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. 

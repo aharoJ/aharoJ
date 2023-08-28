@@ -52,12 +52,6 @@
 - first person shooter kill-to-death ratio 2.43
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a> editor </a> </h2>
-
-- apple redesign
-- reverse engineering twitter
-
-</td><td valign="top" width="33%">
 <h2 align="center"> <a> editor </h2>
 
 - photoshop

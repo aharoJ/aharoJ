@@ -72,7 +72,7 @@
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community.
 <!-- START -->
-<table><tr><td valign="top" width="28%">
+<table><tr><td valign="top">
 <h2 align="center"> <a> opensource </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/opensource">
@@ -83,7 +83,7 @@
 </p>
 
 
-</td><td valign="top" width="28%">
+</td><td valign="top">
 <h2 align="center"> <a> starship </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/dot-starship">
@@ -93,7 +93,7 @@
 </p>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 <h2 align="center"> <a> nextJs portfolio  </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/nextJs_portfolio">

@@ -49,8 +49,10 @@
 
 - regional professional player for FIFA
   -  17 | 19 | 21
-- top 13 % in COD, top 5 % in warzone, top 1 % in pubg
-- first person shooter kill-to-death ratio 2.43
+- top 13 % in COD
+- top 5 % in warzone
+- top 1 % in pubg
+- first person shooter avg. kill-to-death ratio 2.43
 
 </td><td valign="top" width="33%">
 <h2 align="center"> <a> editor </h2>

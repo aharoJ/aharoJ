@@ -229,6 +229,34 @@
 </a>
 </p>
 
+
+
+</td><td valign="top" width="28%">
+<h3 align="center"> <a href="https://github.com/aharoJ/dot-vivaldi"> vivaldi ✅ </a> </h3>
+
+- My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. 
+- I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
+
+
+<h3 align="center"> <a href="https://themes.vivaldi.net/themes/nV6vpPxDvdN"> official vivadi contribution  </a> </h3>
+
+
+<p align="center">
+<a href="https://github.com/aharoJ/dot-vivaldi">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-vivaldi&theme=onedark" />
+</a>
+</p>
+
+
+
+<p align="center">
+<a href="https://github.com/aharoJ/dot-vivaldi">
+  <img style="display: block; margin: 0 auto;" width="250"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-vivaldi&theme=onedark" />
+</a>
+</p>
+
 </tr></tr></table> 
 <br/>
 <!-- END -->

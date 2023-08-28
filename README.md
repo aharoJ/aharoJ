@@ -71,7 +71,6 @@
 <h2 align="center"> <a href="https://github.com/aharoJ/opensource"> opensource advocate </a> </h2>
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community.
----
 <!-- START -->
 <table><tr><td valign="top" width="28%">
 <h2 align="center"> <a> opensource </a> </h2>
@@ -109,10 +108,8 @@
 
 
 
-
-
 <!-- START -->
-<table><tr><td valign="top" width="28%">
+<table><tr><td valign="top">
 <h2 align="center"> <a> linksage </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">
@@ -122,7 +119,7 @@
 </p>
 
 
-</td><td valign="top" width="28%">
+</td><td valign="top">
 <h2 align="center"> <a> tmux </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/tmux-config">
@@ -132,7 +129,7 @@
 </p>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" >
 <h2 align="center"> <a href="https://github.com/aharoJ/yabai-skhd-config"> yabai  </a> </h2>
 <p align="center">
 <a href="https://github.com/aharoJ/universal-markdown-linker">

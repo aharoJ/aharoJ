@@ -19,7 +19,7 @@
 <h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
 <!-- START -->
-<table><tr><td valign="top" width="28%">
+<table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> physical activities </a> </h2>
 
 - gym
@@ -28,7 +28,7 @@
 - skateboarding
 
 
-</td><td valign="top" width="28%">
+</td><td valign="top" width="33%">
 <h2 align="center"> <a> anime enthusiast </a> </h2>
 
 - vinland
@@ -48,14 +48,6 @@
 - top 1 % in pubg
 - FPS kill-to-death ratio 2.43
 
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> editor </h2>
-
-- photoshop
-- sony vegas pro
-- elgato
-- obs
-- youtube
 
 </tr></tr></table> 
 <br/>

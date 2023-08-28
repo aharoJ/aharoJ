@@ -16,12 +16,6 @@
 <!-- END -->
 
 
-
-
-
-
-
-
 <h2 align="center"><a> About Me 🧍‍♂️ </a> </h2>
 
 <!-- START -->
@@ -70,6 +64,9 @@
 
 
 
+
+
+
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 <h2 align="center"> hehe </h2>
@@ -78,7 +75,7 @@
 <a href="https://github.com/aharoJ/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=dracula" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=highcontrast" />
 </a>
 </p>
 

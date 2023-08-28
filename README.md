@@ -34,7 +34,7 @@
 - skateboarding
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="28%">
 <h2 align="center"> <a> anime enthusiast </a> </h2>
 
 - vinland

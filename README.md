@@ -26,46 +26,45 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/backend"> backend </a> </h2>
+<h2 align="center"> <a> physical activities </a> </h2>
 
-- greaterbooks-applications
-- inbox-application
-- spring-boot
+- gym
+- soccer
+- boxing
+- skateboarding
 
-</td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/databases"> databases </a> </h2>
-
-- cassandraDB
-- mysql
-- postgresql
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/frontend"> frontend </a> </h2>
+<h2 align="center"> <a> anime enthusiast </a> </h2>
 
-- chatGPT3 (react)
-- nextJs
+- vinland
+- fma
+- aot
+- demon slayer
+- psycho-pass
+
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/fullstack"> fullstack </a> </h2>
+<h2 align="center"> <a> video game enthusiast </a> </h2>
+
+- regional pro player for FIFA: 17 | 19 | 21
+- top 13 % in COD, top 5 % in warzone, top 1 % in pubg
+- first person shooter kill-to-death ratio 2.43
+
+</td><td valign="top" width="33%">
+<h2 align="center"> <a> editor </a> </h2>
 
 - apple redesign
 - reverse engineering twitter
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/machine-learning"> machine learning  </h2>
+<h2 align="center"> <a> editor </h2>
 
-- linear regression
-- matplot
-- numpy
-- pandas
-- seaborn
-- [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/porfolio"> portfolio </a> </h2>
-
-- nextJs
-- react
+- photoshop
+- sony vegas pro
+- elgato
+- obs
+- youtube
 
 </tr></tr></table> 
 <br/>

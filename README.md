@@ -220,10 +220,10 @@
 - [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/porfolio"> portfolio </a> </h2>
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/frontend/porfolio/nextjs"> portfolio </a> </h2>
 
-- nextJs
-- react
+- nextJs (current)
+- react (old)
 
 </tr></tr></table> 
 <br/>

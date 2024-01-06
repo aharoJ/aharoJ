@@ -35,9 +35,8 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a> about me 🧍‍♂️ </a> </h2>
+<h2 align="center"><a href=https://aharoj.io> about me 🧍‍♂️ </a> </h2>
 
-<h3 align="center"> <a href=https://aharoj.io> ··· VISIT PORTFOLIO ··· </a> </h3>
 
 ---
 

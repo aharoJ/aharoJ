@@ -109,13 +109,13 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 <h2 align="center"> <a> JavaScript & Typescript </a> </h2>
 
 - apple redesign
 - reverse engineering twitter
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 <h2 align="center"> <a> machine learning  </h2>
 
 - linear regression
@@ -125,15 +125,11 @@
 - seaborn
 - [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> portfolio </a> </h2>
-
-- nextJs (current)
-- react (old)
-
 </tr></tr></table> 
 <!-- END -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+
+
 
 
 
@@ -163,14 +159,3 @@
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharoJ&theme=dracula" />
 </div>
 <!-- END  -->
-
-
-
-
-
-
-
-
-
-
-

@@ -36,14 +36,6 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <h2 align="center"><a> about me 🧍‍♂️ </a> </h2>
-
----
-
-- I plan to pursue a PhD in computer science and become a professor where I can share my knowledge and passion for technology with future generations.
-- Passionate for software architecture, machine learning, pipelines, and hacking
-- I am committed to life long learning and embody Albert Einsteins words:
-  - Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
-
 <!-- START -->
 <table><tr><td valign="top" width="15%">
 <h2 align="center"> <a> physical activities </a> </h2>
@@ -90,11 +82,10 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource"> opensource advocate </a> </h2>
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
 
 ---
 
-- An open source advocate, committed to sharing my knowledge and expertise with the community.
 <!-- START -->
 <table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> opensource </a> </h2>

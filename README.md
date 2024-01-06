@@ -25,16 +25,15 @@
   </tr>
 </table>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<h2 align="start"><a href=https://aharoj.io/about> About Me 🧍‍♂️ </a> </h2>
+<br/>
+<!-- END -->
 
-<div class="container">
-  <div class="side-by-side">
-    <h2><a href="https://aharoj.io/about">About Me 🧍‍♂️</a></h2>
-  </div>
-  <div class="side-by-side">
-    <h2><a href="https://github.com/aharoJ/opensource">open source software</a></h2>
-  </div>
-</div>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<h2 align="end"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
 
+---
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">

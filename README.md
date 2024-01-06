@@ -34,7 +34,7 @@
 </p>
 
 
-
+---
 
 <h2 align="center"> <a> Technical Skills </a> </h2>
 <div align="center">

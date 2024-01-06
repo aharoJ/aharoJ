@@ -39,7 +39,7 @@
 <h2 align="center"> <a> Technical Skills </a> </h2>
 <div align="center">
 <details open>
-  <summary><strong>Languages</strong></summary><br/>
+  <summary style="font-size: 20px; font-weight: bold;">Languages</summary><br/>
   <table>
     <thead>
       <tr>

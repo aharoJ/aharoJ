@@ -6,7 +6,7 @@
 <!-- START  -->
 <div align="center">
 <a href="https://www.linkedin.com/in/aharoJ/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Linkedin" /></a>&nbsp;
-<a href="https://aharoj.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=pink" alt="Portfolio" /></a>&nbsp;
+<a href="https://aharoj.io"><img src="https://img.shields.io/badge/Portfolio-%23333333.svg?style=for-the-badge&logo=firefox&logoColor=pink" alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/aharoJ"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
 <a href="https://leetcode.com/aharoJ/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;
 </div>  
@@ -48,37 +48,37 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="300">  
+      <td align="center" width="333">  
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </td>
-      <td align="center" width="300">  
+      <td align="center" width="333">  
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width="300">  
+      <td align="center" width="333">  
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width="300"> 
+      <td align="center" width="333"> 
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
     </tr>
     <tr> 
-      <td align="center" width="300">Java</td>
-      <td align="center" width="300">Python</td>
-      <td align="center" width="300">JavaScript</td>
-      <td align="center" width="300">TypeScript</td>
+      <td align="center" width="333">Java</td>
+      <td align="center" width="333">Python</td>
+      <td align="center" width="333">JavaScript</td>
+      <td align="center" width="333">TypeScript</td>
     </tr>
     <tr>
-      <td align="center" width="300"> 
+      <td align="center" width="333"> 
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       </td>
-      <td align="center" width="300"> 
+      <td align="center" width="333"> 
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
     </tr>
     <tr> 
-      <td align="center" width="300">C++</td>
-      <td align="center" width="300">MySQL</td>
-      <td align="center" width="300">MySQL</td>
-      <td align="center" width="300">MySQL</td>
+      <td align="center" width="333">C++</td>
+      <td align="center" width="333">MySQL</td>
+      <td align="center" width="333">MySQL</td>
+      <td align="center" width="333">MySQL</td>
     </tr>
   </tbody>
 </table>
@@ -167,23 +167,23 @@
     </tr>
   </thead>
   <tr>
-    <td align="center" width=300>  
+    <td align="center" width=333>  
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
     </td>
-    <td align="center" width=300> 
+    <td align="center" width=333> 
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
     </td>
-    <td align="center" width=300> 
+    <td align="center" width=333> 
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
     </td>
-    <td align="center" width=300>
+    <td align="center" width=333>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
     </td>
   <tr> 
-    <td align="center" width=300>MacOS</td>
-    <td align="center" width=300>Linux</td>
-    <td align="center" width=300>Ubuntu</td>
-    <td align="center" width=300>Windows</td>
+    <td align="center" width=333>MacOS</td>
+    <td align="center" width=333>Linux</td>
+    <td align="center" width=333>Ubuntu</td>
+    <td align="center" width=333>Windows</td>
   </tr>
 </table>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->

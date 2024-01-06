@@ -279,11 +279,15 @@
       <td align="center" width=300> 
         <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> 
       </td>
+      <td align="center" width=300>  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+      </td>
     <tr> 
       <td align="center" width=300>Windows</td>
       <td align="center" width=300>Linux</td>
       <td align="center" width=300>Ubuntu</td>
       <td align="center" width=300>Debian</td>
+      <td align="center" width=300>Apple</td>
     </tr>
   </table>
 </div>

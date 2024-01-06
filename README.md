@@ -24,14 +24,10 @@
     </td>
   </tr>
 </table>
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="start"><a href=https://aharoj.io/about> About Me 🧍‍♂️ </a> </h2>
-<br/>
-<!-- END -->
+
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="end"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
+<h2 align="center"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
 
 ---
 

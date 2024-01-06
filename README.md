@@ -78,14 +78,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="icon" width="65" height="65" />     
       </td>
     </tr>
     <tr> 
       <td align="center" width="333">C++</td>
       <td align="center" width="333">Swift</td>
       <td align="center" width="333">Bash</td>
-      <td align="center" width="333">MySQL</td>
+      <td align="center" width="333">Vim</td>
     </tr>
   </tbody>
 </table>

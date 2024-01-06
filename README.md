@@ -67,14 +67,14 @@
 ---
 
 
-<div align="center">
-  <a href="https://aharoj.io">
-    <img src="https://github.com/aharoJ/aharoJ/blob/main/resources/img/grid-snake.svg" alt="snake">
+
+
+
+<p align="center">
+  <a href="https://github.com/omololevy/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+tech+enthusiast,+I+enjoy+programming;Languages+known:+Java,+Python,+Bash;JavaScript,+TypeScript&font=Fira+Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22">
   </a>
-</div>
-
-
-
+</p>
 
 
 

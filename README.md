@@ -117,13 +117,13 @@
   <tbody>
     <tr>
       <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/-icon.svg" alt="ESLint icon" width="65" height="65" />
       </td>
       <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django icon" width="65" height="65" /> 
+        <img src="https://techstack-generator.vercel.app/-icon.svg" alt="Django icon" width="65" height="65" /> 
       </td>
       <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API icon" width="65" height="65" /> 
+        <img src="https://techstack-generator.vercel.app/-icon.svg" alt="REST API icon" width="65" height="65" /> 
       </td>
     </tr>
     <tr>

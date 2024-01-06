@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/omololevy/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Angel+J.+Haro;Skilled+in+Java,+Python,+Bash,+JavaScript,+TypeScript;Experienced+with+Spring+Boot,+Django,+Flask,+ReactJs;Passionate+about+AI,+Data+Science,+API+Development;Proactive+Research+Developer+and+Software+Engineer+Intern;Check+out+my+projects+and+portfolio+at+aharoj.io&font=Fira+Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Angel+J.+Haro;Skilled+in+Java,+Python,+Bash,+JavaScript,+TypeScript;Experienced+with+Spring+Boot,+Django,+Flask,+ReactJs;Passionate+about+AI,+Data+Science,+API+Development;Proactive+Research+Developer+and+Software+Engineer+Intern;Check+out+my+projects+and+portfolio+at+aharoj.io&font=Fira+Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=14">
   </a>
 </p>
 

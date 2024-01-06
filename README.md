@@ -91,27 +91,27 @@
     </thead>
     <tr>
       <td align="center" width=300>  
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </td>
+      <td align="center" width=300>  
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
       <td align="center" width=300>  
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width=300>  
+      <td align="center" width=300> 
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
       <td align="center" width=300> 
-        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-      </td>
-      <td align="center" width=300> 
-        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
       </td>
     </tr>
     <tr> 
+      <td align="center" width=300>Java</td>
       <td align="center" width=300>Python</td>
       <td align="center" width=300>JavaScript</td>
-      <td align="center" width=300>Typescript</td>
-      <td align="center" width=300>CSS</td>
-      <td align="center" width=300>HTML</td>
+      <td align="center" width=300>TypeScript</td>
+      <td align="center" width=300>Swift</td>
     </tr>
     <tr>
       <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>

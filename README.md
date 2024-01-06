@@ -34,7 +34,7 @@
 
 <h2 align="center"> <a> Languages </a> </h2>
 
-  <details align="start">
+  <details>
   <summary>Java</summary>
     - Spring Boot
     - Spring Security
@@ -42,7 +42,7 @@
   </details>
 
   
-  <details align="center">
+  <details>
   <summary>Java</summary>
 
     - Spring Boot
@@ -51,7 +51,7 @@
   </details>
 
   
-  <details align="end">
+  <details>
   <summary>Java</summary>
 
     - Spring Boot

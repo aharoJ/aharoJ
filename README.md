@@ -77,33 +77,33 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">
-<h2 align="center"> <a href=""> Java </a> </h2>
+<h2 align="center"> <a> Java </a> </h2>
 
 - greaterbooks
 - inbox-application
 - spring-boot
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href=""> Shell </a> </h2>
+<h2 align="center"> <a> Shell </a> </h2>
 
 - cassandraDB
 - mysql
 - postgresql
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href=""> Python </a> </h2>
+<h2 align="center"> <a> Python </a> </h2>
 
 - chatGPT3 (react)
 - nextJs
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href=""> JavaScript & Typescript </a> </h2>
+<h2 align="center"> <a> JavaScript & Typescript </a> </h2>
 
 - apple redesign
 - reverse engineering twitter
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href=""learning"> machine learning  </h2>
+<h2 align="center"> <a> machine learning  </h2>
 
 - linear regression
 - matplot
@@ -113,7 +113,7 @@
 - [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/frontend/porfolio"> portfolio </a> </h2>
+<h2 align="center"> <a> portfolio </a> </h2>
 
 - nextJs (current)
 - react (old)

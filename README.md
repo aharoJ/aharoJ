@@ -26,56 +26,25 @@
 </table>
 
 
-<!-- START -->
-<table><tr><td valign="top" width="33%">
-<h2 align="center"> <a> dotfiles </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/dotfiles">
-  <img style="display: block; margin: 0 auto;" 
-  width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dotfiles&hide=jupyter%20notebook&theme=dracula" />
-</a>
-</p>
-
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> starship </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/dot-starship">
-  <img style="display: block; margin: 0 auto;" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=dracula" />
-</a>
-</p>
-
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> nextJs portfolio  </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/nextJs_portfolio">
-  <img style="display: block; margin: 0 auto;" 
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=dracula" />
-</a>
-</p>
-
-</tr></tr></table> 
-<!-- END -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
 
----
 
-# Languages
 
+
+<h2 align="center"> <a> Languages </a> </h2>
 
 
 <details>
-<summary> Java</summary>
+<summary>Java</summary>
 
 - Spring Boot
 - Spring Security
 - Spring Oauth
 </details>
 
+
+---
 
 
 

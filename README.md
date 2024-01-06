@@ -70,6 +70,46 @@
 
 
 
+<!-- START -->
+<div align="center">
+<!-- Your other content -->
+</div>
+
+<!-- Aligning elements side by side -->
+<div align="center">
+<table>
+  <tr>
+    <!-- First Column -->
+    <td valign="top" width="33%">
+  <details>
+  <summary>Java</summary>
+
+  - Spring Boot
+  - Spring Security
+  - Spring Oauth
+  </details>
+    </td>
+    <!-- Second Column -->
+    <td valign="top" width="33%">
+      <!-- Your second item (e.g., GitHub Stats) goes here -->
+    </td>
+    <!-- Third Column -->
+    <td valign="top" width="33%">
+      <!-- Your third item goes here -->
+    </td>
+  </tr>
+</table>
+</div>
+<!-- END -->
+
+
+
+
+
+
+
+
+
 
 
 

@@ -114,17 +114,17 @@
       <td align="center" width=400>HTML</td>
     </tr>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=300> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=400> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=400> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=400> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+      <td align="center" width=400> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
+      <td align="center" width=400> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
     <tr> 
-      <td align="center" width=300>PostgreSQL</td>
-      <td align="center" width=300>MySQL</td>
-      <td align="center" width=300>SQLite</td>
-      <td align="center" width=300>Ba$h</td>
-      <td align="center" width=300>Markdown</td>
+      <td align="center" width=400>PostgreSQL</td>
+      <td align="center" width=400>MySQL</td>
+      <td align="center" width=400>SQLite</td>
+      <td align="center" width=400>Ba$h</td>
+      <td align="center" width=400>Markdown</td>
     </tr>
   </table>
 

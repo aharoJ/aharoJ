@@ -56,31 +56,13 @@
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" /> 
           <br>Python
         </td>
-        <td align="center" width="333">  
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash icon" width="65" height="65" />
-          <br>Bash
-        </td>
         <td align="center" width="333"> 
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" /> 
           <br>JavaScript
         </td>
-      </tr>
-      <tr>
         <td align="center" width="333"> 
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="65" height="65" /> 
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="JavaScript icon" width="65" height="65" /> 
           <br>TypeScript
-        </td>
-        <td align="center" width="333"> 
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
-          <br>C++
-        </td>
-        <td align="center" width="333"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua icon" width="65" height="65" />
-          <br>Lua
-        </td>
-        <td align="center" width="333"> 
-          <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift icon" width="65" height="65" />
-          <br>Swift
         </td>
       </tr>
     </tbody>

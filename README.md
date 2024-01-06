@@ -213,11 +213,11 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <details>
-  <summary><strong>OPERATING SYSTEMS</strong></summary><br/>
+  <summary><strong>OPEN SOURCE SOFTWARE</strong></summary><br/>
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h2 align="center">opensource</h2>
+        <h2 align="center">Open Source Software</h2>
         <p align="center">
           <a href="https://github.com/aharoJ/opensource">
             <img style="display: block; margin: 0 auto;" 

@@ -128,7 +128,7 @@
   <tbody>
     <tr>
       <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/-icon.svg" alt="ESLint icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333">  
         <img src="https://techstack-generator.vercel.app/-icon.svg" alt="Django icon" width="65" height="65" /> 
@@ -138,7 +138,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="333">LALA</td>
+      <td align="center" width="333">MySQL</td>
       <td align="center" width="333">LALA</td>
       <td align="center" width="333">LALA</td>
     </tr>

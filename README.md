@@ -34,87 +34,44 @@
 
 <h2 align="center"> <a> Languages </a> </h2>
 
+<div>
 
-<details>
-<summary>Java</summary>
+  <div align="start">
+  <details>
+  <summary>Java</summary>
 
-- Spring Boot
-- Spring Security
-- Spring Oauth
-</details>
+    - Spring Boot
+    - Spring Security
+    - Spring Oauth
+  </details>
+  </div>
 
+  <div align="center">
+  <details>
+  <summary>Java</summary>
 
-<details>
-<summary>Java</summary>
+    - Spring Boot
+    - Spring Security
+    - Spring Oauth
+  </details>
+  </div>
 
-- Spring Boot
-- Spring Security
-- Spring Oauth
-</details>
+  <div align="end">
+  <details>
+  <summary>Java</summary>
 
-<details>
-<summary>Java</summary>
-
-- Spring Boot
-- Spring Security
-- Spring Oauth
-</details>
-
+    - Spring Boot
+    - Spring Security
+    - Spring Oauth
+  </details>
+  </div>
+</div>
 
 ---
 
 
 
 
-
-
-
-
-<!-- START -->
-<div align="center">
-<!-- Your other content -->
-</div>
-
-<!-- Aligning elements side by side -->
-<div align="center">
-<table>
-  <tr>
-    <!-- First Column -->
-    <td valign="top" width="33%">
-  <details>
-  <summary>Java</summary>
-
-  - Spring Boot
-  - Spring Security
-  - Spring Oauth
-  </details>
-    </td>
-    
-    <!-- Second Column -->
-    <td valign="top" width="33%">
-  <details>
-  <summary>Java</summary>
-
-  - Spring Boot
-  - Spring Security
-  - Spring Oauth
-  </details>
-    </td>
-   
-    <!-- Third Column -->
-    <td valign="top" width="33%">
-  <details>
-  <summary>Java</summary>
-
-  - Spring Boot
-  - Spring Security
-  - Spring Oauth
-  </details>
-    </td>
-  </tr>
-</table>
-</div>
-<!-- END -->
 
 
 

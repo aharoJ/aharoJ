@@ -34,30 +34,32 @@
 
 <h2 align="center"> <a> Languages </a> </h2>
 
-  <details>
-  <summary>Java</summary>
-    - Spring Boot
-    - Spring Security
-    - Spring Oauth
-  </details>
+<details>
+<summary>Java</summary>
 
-  
-  <details>
-  <summary>Java</summary>
+- Spring Boot
+- Spring Security
+- Spring Oauth
+</details>
 
-    - Spring Boot
-    - Spring Security
-    - Spring Oauth
-  </details>
 
-  
-  <details>
-  <summary>Java</summary>
+<details>
+<summary>Java</summary>
+- Spring Boot
+- Spring Security
+- Spring Oauth
 
-    - Spring Boot
-    - Spring Security
-    - Spring Oauth
-  </details>
+</details>
+
+
+<details>
+<summary>Java</summary>
+
+- Spring Boot
+- Spring Security
+- Spring Oauth
+
+</details>
 
 ---
 

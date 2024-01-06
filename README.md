@@ -11,10 +11,9 @@
 <a href="https://leetcode.com/aharoJ/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;
 </div>  
 <br/>
-<!-- END -->
 
-
-
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<h2 align="center"><a href=https://aharoj.io/about> about me 🧍‍♂️ </a> </h2>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <!-- START -->
 <table>
@@ -27,59 +26,9 @@
     </td>
   </tr>
 </table>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
-
-
-
-
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h1 align="center"><a href=https://aharoj.io> about me 🧍‍♂️ </a> </h1>
-
-
----
-
-<!-- START -->
-<table><tr><td valign="top" width="15%">
-<h2 align="center"> <a> physical activities </a> </h2>
-
-- gym
-- soccer
-- boxing
-- skateboarding
-
-
-</td><td valign="top" width="20%">
-<h2 align="center"> <a> anime enthusiast </a> </h2>
-
-- vinland
-- fma
-- aot
-- demon slayer
-- psycho-pass
-
-</td><td valign="top" width="15%">
-<h2 align="center"> <a> editor </h2>
-
-- photoshop
-- sony vegas pro
-- elgato
-- obs
-- youtube
-
-</td><td valign="top" width="50%">
-<h2 align="center"> <a> video game enthusiast </a> </h2>
-
-- U.S. regional professional player in FIFA
-  -  17 | 19 | 21
-- top 13 % in COD 
-- top 5 % in warzone
-- top 1 % in pubg
-- FPS kill-to-death ratio 2.43
-</tr></tr></table> 
-<!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
 
 

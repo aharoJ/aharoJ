@@ -140,23 +140,10 @@
 
 
 <details>
-
 <summary>Java</summary>
-
-### Spring Boot
-### Spring Security
-### Spring Oauth
-### 
-
-
-<summary>Spring </summary>
-
-
-
-```ruby
-   puts "Hello World"
-```
-
+- Spring Boot
+- Spring Security
+- Spring Oauth
 </details>
 
 

@@ -280,7 +280,7 @@
         <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> 
       </td>
       <td align="center" width=300>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
       </td>
     <tr> 
       <td align="center" width=300>Windows</td>

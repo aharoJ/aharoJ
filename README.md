@@ -35,8 +35,6 @@
 <h2 align="center"> <a> Languages </a> </h2>
 
 <div>
-
-  <div align="start">
   <details align="start">
   <summary>Java</summary>
 
@@ -44,9 +42,8 @@
     - Spring Security
     - Spring Oauth
   </details>
-  </div>
 
-  <div align="center">
+  
   <details align="center">
   <summary>Java</summary>
 
@@ -54,9 +51,8 @@
     - Spring Security
     - Spring Oauth
   </details>
-  </div>
 
-  <div align="end">
+  
   <details align="end">
   <summary>Java</summary>
 
@@ -64,7 +60,6 @@
     - Spring Security
     - Spring Oauth
   </details>
-  </div>
 </div>
 
 ---

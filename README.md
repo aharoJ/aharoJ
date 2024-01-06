@@ -141,9 +141,10 @@
 
 <details>
 <summary>Java</summary>
-### Spring Boot
-### Spring Security
-### Spring Oauth
+
+- Spring Boot
+- Spring Security
+- Spring Oauth
 </details>
 
 

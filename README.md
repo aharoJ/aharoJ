@@ -221,7 +221,7 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"> <a> Technical Skills </a> </h2>
+<h2 align="center"> <a> Open Source Software </a> </h2>
 <!-- START -->
 <table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> opensource </a> </h2>

@@ -197,11 +197,6 @@
 <details>
   <summary><strong>Operating Systems</strong></summary>
     <Table>
-    <thead>
-      <tr>
-        <th colspan="4">Operating Systems</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
         <td align="center" width=333>  

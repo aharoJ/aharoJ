@@ -68,7 +68,12 @@
 
 
 
-
+<details> 
+      <summary>
+         <kbd><h3>View Metrics</h3><kbd>
+      </summary>
+    <a href="https://github.com/ThatOneCalculator?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
+   </details>
 
 
 

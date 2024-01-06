@@ -34,10 +34,8 @@
 
 <h2 align="center"> <a> Languages </a> </h2>
 
-<div>
   <details align="start">
   <summary>Java</summary>
-
     - Spring Boot
     - Spring Security
     - Spring Oauth
@@ -60,7 +58,6 @@
     - Spring Security
     - Spring Oauth
   </details>
-</div>
 
 ---
 

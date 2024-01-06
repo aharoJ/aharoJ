@@ -121,102 +121,110 @@
     </tbody>
   </Table>
 </details>
-<br/>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
   
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<Table>
-  <thead>
-    <tr>
-      <th colspan="4">DATABASE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  alt="PostgreSQL icon" width="65" height="65" /> 
-      </td>
-      <td align="center" width="333">  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" alt="Cassandra icon" width="65" height="65" /> 
-      </td>
-      <td align="center" width="333">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy icon" width="65" height="65" /> 
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="333">MySQL</td>
-      <td align="center" width="333">PostgreSQL</td>
-      <td align="center" width="333">Cassandra</td>
-      <td align="center" width="333">SQLA</td>
-    </tr>
-  </tbody>
-</Table>
-<br/>
+<details>
+  <summary><strong>DATABASE</strong></summary><br/>
+  <Table>
+    <thead>
+      <tr>
+        <th colspan="4">DATABASE</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        </td>
+        <td align="center" width="333">  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  alt="PostgreSQL icon" width="65" height="65" /> 
+        </td>
+        <td align="center" width="333">  
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" alt="Cassandra icon" width="65" height="65" /> 
+        </td>
+        <td align="center" width="333">  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy icon" width="65" height="65" /> 
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="333">MySQL</td>
+        <td align="center" width="333">PostgreSQL</td>
+        <td align="center" width="333">Cassandra</td>
+        <td align="center" width="333">SQLA</td>
+      </tr>
+    </tbody>
+  </Table>
+</details>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<Table>
-  <thead>
-    <tr>
-      <th colspan="4">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="333">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  alt="React icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux icon" width="65" height="65" /> 
-      </td>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" /> 
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="333">TailwindCSS</td>
-      <td align="center" width="333">React</td>
-      <td align="center" width="333">Redux</td>
-      <td align="center" width="333">Prettier</td>
-    </tr>
-  </tbody>
-</table>
-<br/>
+<details>
+  <summary><strong>Frontend</strong></summary><br/>
+  <Table>
+    <thead>
+      <tr>
+        <th colspan="4">Frontend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" width="333">  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  alt="React icon" width="65" height="65" />
+        </td>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
+        </td>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux icon" width="65" height="65" /> 
+        </td>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" /> 
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="333">TailwindCSS</td>
+        <td align="center" width="333">React</td>
+        <td align="center" width="333">Redux</td>
+        <td align="center" width="333">Prettier</td>
+      </tr>
+    </tbody>
+  </Table>
+</details>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<table>
-  <thead>
-    <tr>
-      <th colspan="4">Operating Systems</th>
-    </tr>
-  </thead>
-  <tr>
-    <td align="center" width=333>  
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-    </td>
-    <td align="center" width=333> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
-    </td>
-    <td align="center" width=333> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
-    </td>
-    <td align="center" width=333>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
-    </td>
-  <tr> 
-    <td align="center" width=333>MacOS</td>
-    <td align="center" width=333>Linux</td>
-    <td align="center" width=333>Ubuntu</td>
-    <td align="center" width=333>Windows</td>
-  </tr>
-</table>
+<details>
+  <summary><strong>Frontend</strong></summary><br/>
+    <Table>
+    <thead>
+      <tr>
+        <th colspan="4">Operating Systems</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" width=333>  
+          <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+        </td>
+        <td align="center" width=333> 
+          <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+        </td>
+        <td align="center" width=333> 
+          <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
+        </td>
+        <td align="center" width=333>
+          <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
+        </td>
+      <tr> 
+        <td align="center" width=333>MacOS</td>
+        <td align="center" width=333>Linux</td>
+        <td align="center" width=333>Ubuntu</td>
+        <td align="center" width=333>Windows</td>
+      </tr>
+    </tbody>
+  </Table>
+</details>
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 </div>
 

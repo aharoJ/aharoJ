@@ -221,38 +221,41 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"> <a> Open Source Software </a> </h2>
-<!-- START -->
-<table><tr><td valign="top" width="33%">
-<h2 align="center"> <a> opensource </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/opensource">
-  <img style="display: block; margin: 0 auto;" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
-</a>
-</p>
+<details>
+  <summary style="font-size: 20px; font-weight: bold;">Open Source Software</summary><br/>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h2 align="center">opensource</h2>
+        <p align="center">
+          <a href="https://github.com/aharoJ/opensource">
+            <img style="display: block; margin: 0 auto;" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=dracula" />
+          </a>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h2 align="center">starship</h2>
+        <p align="center">
+          <a href="https://github.com/aharoJ/dot-starship">
+            <img style="display: block; margin: 0 auto;" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=dracula" />
+          </a>
+        </p>
+      </td>
+      <td valign="top" width="33%">
+        <h2 align="center">nextJs portfolio</h2>
+        <p align="center">
+          <a href="https://github.com/aharoJ/nextJs_portfolio">
+            <img style="display: block; margin: 0 auto;" 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=dracula" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> starship </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/dot-starship">
-  <img style="display: block; margin: 0 auto;" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=dracula" />
-</a>
-</p>
-
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> nextJs portfolio  </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/nextJs_portfolio">
-  <img style="display: block; margin: 0 auto;" 
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=dracula" />
-</a>
-</p>
-
-</tr></tr></table> 
 <!-- END -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 

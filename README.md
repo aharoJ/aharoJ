@@ -75,17 +75,17 @@
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
       </td>
     </tr>
     <tr> 
       <td align="center" width="333">TypeScript</td>
       <td align="center" width="333">C++</td>
-      <td align="center" width="333">Swift</td>
       <td align="center" width="333">Lua</td>
+      <td align="center" width="333">Swift</td>
     </tr>
   </tbody>
 </table>

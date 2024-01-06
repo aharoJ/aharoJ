@@ -70,67 +70,6 @@
 
 
 
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a> Areas of Work </a> </h2>
-
----
-
-<!-- START -->
-<table><tr><td valign="top" width="33%">
-<h2 align="center"> <a> Java </a> </h2>
-
-- greaterbooks
-- inbox-application
-- spring-boot
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> Shell </a> </h2>
-
-- cassandraDB
-- mysql
-- postgresql
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> Python </a> </h2>
-
-- chatGPT3 (react)
-- nextJs
-</tr></tr></table> 
-<!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-
-
-
-
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a> Areas of Work </a> </h2>
-
----
-
-<!-- START -->
-<table><tr><td valign="top" width="100%">
-</td><td valign="top" width="50%">
-<h2 align="center"> <a> JavaScript & Typescript </a> </h2>
-
-- apple redesign
-- reverse engineering twitter
-
-</td><td valign="top" width="50%">
-<h2 align="center"> <a> machine learning  </h2>
-
-- linear regression
-- matplot
-- numpy
-- pandas
-- seaborn
-- [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
-
-</tr></tr></table> 
-<!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-
-
-
 
 | JavaScript & Typescript  | Machine Learning |
 | ------------- | ------------- |

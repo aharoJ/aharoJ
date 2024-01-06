@@ -75,7 +75,7 @@
 ---
 
 <!-- START -->
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 </td><td valign="top" width="100%">
 <h2 align="center"> <a> JavaScript & Typescript </a> </h2>
 

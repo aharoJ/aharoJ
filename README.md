@@ -132,6 +132,59 @@
 
 
 
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />
+      </td>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux icon" width="65" height="65" /> 
+      </td>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" /> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="333">React</td>
+      <td align="center" width="333">Redux</td>
+      <td align="center" width="333">Prettier</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="3">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint icon" width="65" height="65" />
+      </td>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django icon" width="65" height="65" /> 
+      </td>
+      <td align="center" width="333">  
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API icon" width="65" height="65" /> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="333">ESLint</td>
+      <td align="center" width="333">Django</td>
+      <td align="center" width="333">REST API</td>
+    </tr>
+  </tbody>
+</table>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+
+
+
   <table>
     <thead>
       <tr>

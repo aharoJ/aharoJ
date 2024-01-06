@@ -165,6 +165,7 @@
       </td>
     </tr>
     <tr>
+      <td align="center" width="333">TailwindCSS</td>
       <td align="center" width="333">React</td>
       <td align="center" width="333">Redux</td>
       <td align="center" width="333">Prettier</td>

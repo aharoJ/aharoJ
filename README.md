@@ -101,6 +101,9 @@
   <tbody>
     <tr>
       <td align="center" width="333">  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring icon" width="65" height="65" />          
+      </td>
+      <td align="center" width="333">  
         <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint icon" width="65" height="65" />
       </td>
       <td align="center" width="333">  
@@ -111,6 +114,7 @@
       </td>
     </tr>
     <tr>
+      <td align="center" width="333">Spring</td>
       <td align="center" width="333">ESLint</td>
       <td align="center" width="333">Django</td>
       <td align="center" width="333">REST API</td>

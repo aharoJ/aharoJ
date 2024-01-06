@@ -117,10 +117,10 @@
     </tr>
     <tr>
       <td align="center" width="300"> 
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="300"> 
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> 
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="300"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="icon" width="65" height="65"/> 

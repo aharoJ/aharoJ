@@ -39,7 +39,7 @@
 <h2 align="center"> <a> Technical Skills </a> </h2>
 <div align="center">
 <details open>
-  <summary><strong>Languages</strong></summary><br/>
+  <summary><strong>LANGUAGES</strong></summary><br/>
   <table>
     <thead>
       <tr>
@@ -90,7 +90,7 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <details>
-  <summary><strong>Backend</strong></summary><br/>
+  <summary><strong>BACKEND</strong></summary><br/>
   <table>
     <thead>
       <tr>
@@ -129,7 +129,7 @@
   <Table>
     <thead>
       <tr>
-        <th colspan="4">DATABASE</th>
+        <th colspan="4">Database</th>
       </tr>
     </thead>
     <tbody>
@@ -160,7 +160,7 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <details>
-  <summary><strong>Frontend</strong></summary><br/>
+  <summary><strong>FRONTEND</strong></summary><br/>
   <Table>
     <thead>
       <tr>
@@ -195,7 +195,7 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <details>
-  <summary><strong>Operating Systems</strong></summary><br/>
+  <summary><strong>OPERATING SYSTEMS</strong></summary><br/>
     <Table>
     <thead>
       <tr>

@@ -33,12 +33,12 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">
-<h2 align="center"> <a> opensource </a> </h2>
+<h2 align="center"> <a> dotfiles </a> </h2>
 <p align="center">
-<a href="https://github.com/aharoJ/opensource">
+<a href="https://github.com/aharoJ/dotfiles">
   <img style="display: block; margin: 0 auto;" 
   width="full"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&hide=jupyter%20notebook&theme=dracula" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dotfiles&hide=jupyter%20notebook&theme=dracula" />
 </a>
 </p>
 
@@ -65,47 +65,6 @@
 </tr></tr></table> 
 <!-- END -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-
-
-
-
-
-
-
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<!-- START -->
-<table><tr><td valign="top" width="33%">
-<h2 align="center"> <a> linksage </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/universal-markdown-linker">
-  <img style="display: block; margin: 0 auto;" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=universal-markdown-linker&theme=dracula" />
-</a>
-</p>
-
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> tmux </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/tmux-config">
-  <img style="display: block; margin: 0 auto;" 
-   src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=tmux-config&theme=dracula" />
-</a>
-</p>
-
-
-</td><td valign="top" width="33%">
-<h2 align="center"> <a> yabai  </a> </h2>
-<p align="center">
-<a href="https://github.com/aharoJ/universal-markdown-linker">
-  <img style="display: block; margin: 0 auto;" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=yabai-skhd-config&theme=dracula" />
-</a>
-</p>
-</tr></tr></table> 
-<!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-
 
 
 

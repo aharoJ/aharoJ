@@ -37,7 +37,7 @@
 
 
 
-<h2 align="center"> <a> Languages and Tech Stack </a> </h2>
+<h2 align="center"> <a> Technical Skills </a> </h2>
 <div align="center">
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <table>

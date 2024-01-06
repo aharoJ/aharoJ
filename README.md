@@ -219,9 +219,9 @@
       <td valign="top" width="33%">
         <h2 align="center">Open Source Software</h2>
         <p align="center">
-          <a href="https://github.com/aharoJ/opensource">
+          <a href="https://github.com/aharoJ/dotfiles">
             <img style="display: block; margin: 0 auto;" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=opensource&theme=dracula" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dotfiles&theme=dracula" />
           </a>
         </p>
       </td>

@@ -75,7 +75,7 @@
 ---
 
 <!-- START -->
-<table><tr><td valign="top" width="50%">
+<table> <tr><td valign="top" width="50%">
 
 
 </td><td valign="top" width="50%">
@@ -94,7 +94,7 @@
 - seaborn
 - [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
-</tr></tr></table> 
+</td></tr> </table> 
 <!-- END -->
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 

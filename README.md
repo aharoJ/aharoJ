@@ -36,6 +36,7 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <h2 align="center"><a> about me 🧍‍♂️ </a> </h2>
+--- 
 <!-- START -->
 <table><tr><td valign="top" width="15%">
 <h2 align="center"> <a> physical activities </a> </h2>

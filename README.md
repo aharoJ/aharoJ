@@ -87,56 +87,59 @@
 
 ## Skills and Tools
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th colspan="4">Languages</th>
-      </tr>
-    </thead>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<table>
+  <thead>
     <tr>
-      <td align="center" width=300>  
+      <th colspan="4">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="300">  
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </td>
-      <td align="center" width=300>  
+      <td align="center" width="300">  
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width=300>  
+      <td align="center" width="300">  
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width=300> 
+      <td align="center" width="300"> 
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
     </tr>
     <tr> 
-      <td align="center" width=300>Java</td>
-      <td align="center" width=300>Python</td>
-      <td align="center" width=300>JavaScript</td>
-      <td align="center" width=300>TypeScript</td>
+      <td align="center" width="300">Java</td>
+      <td align="center" width="300">Python</td>
+      <td align="center" width="300">JavaScript</td>
+      <td align="center" width="300">TypeScript</td>
     </tr>
     <tr>
-      <td align="center" width=300> 
+      <td align="center" width="300"> 
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
       </td>
-      <td align="center" width=300> 
+      <td align="center" width="300"> 
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width=300> 
-        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
+      <td align="center" width="300"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="icon" width="65" height="65"/> 
       </td>
-      <td align="center" width=300> 
-        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
+      <td align="center" width="300"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="icon" width="65" height="65"/> 
       </td>
-      <td align="center" width=300> 
-        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
-      </td>
-    <tr> 
-      <td align="center" width=300>PostgreSQL</td>
-      <td align="center" width=300>MySQL</td>
-      <td align="center" width=300>SQLite</td>
-      <td align="center" width=300>Ba$h</td>
-      <td align="center" width=300>Markdown</td>
     </tr>
-  </table>
+    <tr> 
+      <td align="center" width="300">PostgreSQL</td>
+      <td align="center" width="300">MySQL</td>
+      <td align="center" width="300">SQLite</td>
+      <td align="center" width="300">Bash</td>
+    </tr>
+  </tbody>
+</table>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+
+
 
   <table>
     <thead>

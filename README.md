@@ -77,33 +77,33 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/backend"> backend </a> </h2>
+<h2 align="center"> <a href=""> Java </a> </h2>
 
-- greaterbooks-applications
+- greaterbooks
 - inbox-application
 - spring-boot
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/databases"> databases </a> </h2>
+<h2 align="center"> <a href=""> Shell </a> </h2>
 
 - cassandraDB
 - mysql
 - postgresql
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/frontend"> frontend </a> </h2>
+<h2 align="center"> <a href=""> Python </a> </h2>
 
 - chatGPT3 (react)
 - nextJs
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/fullstack"> fullstack </a> </h2>
+<h2 align="center"> <a href=""> JavaScript & Typescript </a> </h2>
 
 - apple redesign
 - reverse engineering twitter
 
 </td><td valign="top" width="33%">
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource/tree/main/machine-learning"> machine learning  </h2>
+<h2 align="center"> <a href=""learning"> machine learning  </h2>
 
 - linear regression
 - matplot

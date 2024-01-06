@@ -1,3 +1,4 @@
+<!-- START -->
 <h1 align="center"><b> Angel J. Haro 
 <img src="https://docs.google.com/uc?export=download&id=1JqFc6WL-cTtJBQgW9tusQAZhQ3H9hGae" alt="" height="25" >
 <img src="https://docs.google.com/uc?export=download&id=1HsBpakQVutfOmxBcPbGpKdo_oGEoKJZT" alt="" height="35" >
@@ -8,7 +9,6 @@
 <a href="https://aharoj.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=pink" alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/aharoJ"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter" /></a>&nbsp;
 <a href="https://leetcode.com/aharoJ/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;
-<h3 align="center"> <a href=https://aharoj.io> ··· VISIT PORTFOLIO ··· </a> </h3>
 </div>  
 <br/>
 <!-- END -->
@@ -35,7 +35,7 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a href=https://aharoj.io> about me 🧍‍♂️ </a> </h2>
+<h1 align="center"><a href=https://aharoj.io> about me 🧍‍♂️ </a> </h1>
 
 
 ---

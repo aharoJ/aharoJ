@@ -86,7 +86,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="5">Languages</th>
       </tr>
     </thead>
     <tr>

@@ -89,13 +89,27 @@
   - Spring Oauth
   </details>
     </td>
+    
     <!-- Second Column -->
     <td valign="top" width="33%">
-      <!-- Your second item (e.g., GitHub Stats) goes here -->
+  <details>
+  <summary>Java</summary>
+
+  - Spring Boot
+  - Spring Security
+  - Spring Oauth
+  </details>
     </td>
+   
     <!-- Third Column -->
     <td valign="top" width="33%">
-      <!-- Your third item goes here -->
+  <details>
+  <summary>Java</summary>
+
+  - Spring Boot
+  - Spring Security
+  - Spring Oauth
+  </details>
     </td>
   </tr>
 </table>

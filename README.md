@@ -78,7 +78,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="icon" width="65" height="65" />     
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="icon" width="65" height="65" />
       </td>
     </tr>
     <tr> 

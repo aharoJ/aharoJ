@@ -150,7 +150,7 @@
 
   <thead>
     <tr>
-      <th colspan="3">Frontend</th>
+      <th colspan="4">Frontend</th>
     </tr>
   </thead>
   <tbody>
@@ -182,7 +182,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="7">Operating Systems</th>
+      <th colspan="4">Operating Systems</th>
     </tr>
   </thead>
   <tr>

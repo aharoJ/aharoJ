@@ -122,7 +122,7 @@
   </tbody>
   <thead>
     <tr>
-      <th colspan="3">DATABASE</th>
+      <th colspan="4">DATABASE</th>
     </tr>
   </thead>
   <tbody>

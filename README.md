@@ -81,6 +81,10 @@
 
 
 
+
+
+
+
 ## Skills and Tools
 <div align="center">
   <table>
@@ -102,23 +106,29 @@
       <td align="center" width=300> 
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
-      <td align="center" width=300> 
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
-      </td>
     </tr>
     <tr> 
       <td align="center" width=300>Java</td>
       <td align="center" width=300>Python</td>
       <td align="center" width=300>JavaScript</td>
       <td align="center" width=300>TypeScript</td>
-      <td align="center" width=300>Swift</td>
     </tr>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=300> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=300> 
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+      </td>
+      <td align="center" width=300> 
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> 
+      </td>
     <tr> 
       <td align="center" width=300>PostgreSQL</td>
       <td align="center" width=300>MySQL</td>
@@ -136,11 +146,21 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
-      <td align="center" width=300><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
-      <td align="center" width=300><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> 
+      </td>
+      <td align="center" width=300>
+        <img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/>
+      </td>
+      <td align="center" width=300>
+        <img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/>
+      </td>
       <tr align="center"> 
         <td align="center" width=300>Angular</td>
         <td align="center" width=300>Django</td>
@@ -149,8 +169,12 @@
         <td align="center" width=300>T.D.D.</td>
       </tr>
       <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> 
+      </td>
       <tr align="center"> 
         <td align="center" width=300>Bootstrap</td>
         <td align="center" width=300>JQuery</td>
@@ -164,11 +188,21 @@
     </tr>
     </thead>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
-      <td align="center" width=300> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> 
+      </td>
     </tr>
     <tr> 
       <td align="center" width=300>Heroku</td>
@@ -178,11 +212,21 @@
       <td align="center" width=300>Trello</td>
     </tr>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> <
+      /td> 
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> <
+      /td> 
     </tr>
     <tr> 
       <td align="center" width=300>VSCode</td>
@@ -192,11 +236,21 @@
       <td align="center" width=300>Google Cloud</td>
     </tr>
     <tr>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> 
+      </td>
     </tr>
     <tr> 
       <td align="center" width=300>Docker</td>
@@ -213,10 +267,18 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=300><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-      <td align="center" width=300> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
+      <td align="center" width=300>
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
+      </td>
+      <td align="center" width=300> 
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> 
+      </td>
     <tr> 
       <td align="center" width=300>Windows</td>
       <td align="center" width=300>Linux</td>

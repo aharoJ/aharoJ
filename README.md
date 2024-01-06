@@ -67,13 +67,11 @@
 ---
 
 
-
-<details> 
-      <summary>
-         <kbd><h3>View Metrics</h3><kbd>
-      </summary>
-    <a href="https://github.com/aharoJ?tab=repositories&type=source"><img src="./github-metrics.svg" /></a>
-   </details>
+<div align="center">
+  <a href="https://aharoj.io">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
 
 
 

@@ -134,13 +134,17 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  alt="PostgreSQL icon" width="65" height="65" /> 
       </td>
       <td align="center" width="333">  
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" alt="REST API icon" width="65" height="65" /> 
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" alt="Cassandra icon" width="65" height="65" /> 
+      </td>
+      <td align="center" width="333">  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy icon" width="65" height="65" /> 
       </td>
     </tr>
     <tr>
       <td align="center" width="333">MySQL</td>
       <td align="center" width="333">PostgreSQL</td>
-      <td align="center" width="333">LALA</td>
+      <td align="center" width="333">Cassandra</td>
+      <td align="center" width="333">SQLA</td>
     </tr>
   </tbody>
 

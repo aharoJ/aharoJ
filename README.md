@@ -26,11 +26,6 @@
 </table>
 
 
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
-
----
-
 <!-- START -->
 <table><tr><td valign="top" width="33%">
 <h2 align="center"> <a> dotfiles </a> </h2>
@@ -67,49 +62,14 @@
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
 
-
-
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a> Areas of Work </a> </h2>
-
 ---
 
-<!-- START -->
-<table> <tr><td valign="top" width="100%">
-
-
-</td><td valign="top" width="100%">
-<h2 align="center"> <a> JavaScript & Typescript </a> </h2>
-
-- apple redesign
-- reverse engineering twitter
-
-</td><td valign="top" width="100%">
-<h2 align="center"> <a> machine learning  </h2>
-
-- linear regression
-- matplot
-- numpy
-- pandas
-- seaborn
-- [capstone project](https://github.com/aharoJ/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
-
-</td></tr> </table> 
-<!-- END -->
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-
-
-
-
-| JavaScript & Typescript  | Machine Learning |
-| ------------- | ------------- |
-| apple redesign  | Depp Neural Network  |
-| Twitter  | Capstone Project  |
+# Languages
 
 
 
 <details>
-<summary>Java</summary>
+<summary> Java</summary>
 
 - Spring Boot
 - Spring Security

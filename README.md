@@ -28,16 +28,12 @@
 <!-- END -->
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<h2 align="center"><a href=https://aharoj.io/about> About Me 🧍‍♂️ </a> </h2>
-
----
-
-
-
+<h3 align="center"><a href=https://aharoj.io/about> About Me 🧍‍♂️ </a> </h3>
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <h2 align="center"> <a href="https://github.com/aharoJ/opensource"> open source software </a> </h2>
 
+---
 
 <!-- START -->
 <table><tr><td valign="top" width="33%">

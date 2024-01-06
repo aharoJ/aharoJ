@@ -78,13 +78,13 @@
 <table> <tr><td valign="top" width="100%">
 
 
-</td><td valign="top" width="80%">
+</td><td valign="top" width="100%">
 <h2 align="center"> <a> JavaScript & Typescript </a> </h2>
 
 - apple redesign
 - reverse engineering twitter
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="100%">
 <h2 align="center"> <a> machine learning  </h2>
 
 - linear regression

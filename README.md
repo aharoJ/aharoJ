@@ -267,6 +267,9 @@
       </tr>
     </thead>
     <tr>
+      <td align="center" width=300>  
+        <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+      </td>
       <td align="center" width=300>
         <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
       </td>
@@ -279,15 +282,12 @@
       <td align="center" width=300> 
         <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> 
       </td>
-      <td align="center" width=300>  
-        <link height=60 rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      </td>
     <tr> 
+      <td align="center" width=300>MacOS</td>
       <td align="center" width=300>Windows</td>
       <td align="center" width=300>Linux</td>
       <td align="center" width=300>Ubuntu</td>
       <td align="center" width=300>Debian</td>
-      <td align="center" width=300>Apple</td>
     </tr>
   </table>
 </div>

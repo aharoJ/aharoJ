@@ -38,58 +38,54 @@
 
 <h2 align="center"> <a> Technical Skills </a> </h2>
 <div align="center">
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<table>
-  <thead>
-    <tr>
-      <th colspan="4">Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> 
-      </td>
-      <td align="center" width="333">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
-      </td>
-    </tr>
-    <tr> 
-      <td align="center" width="333">Java</td>
-      <td align="center" width="333">Python</td>
-      <td align="center" width="333">Bash</td>
-      <td align="center" width="333">JavaScript</td>
-    </tr>
-    <tr>
-      <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
-      </td>
-      <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-    </tr>
-    <tr> 
-      <td align="center" width="333">TypeScript</td>
-      <td align="center" width="333">C++</td>
-      <td align="center" width="333">Lua</td>
-      <td align="center" width="333">Swift</td>
-    </tr>
-  </tbody>
-</table>
-<br/>
-<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
+<details>
+  <summary><strong>Languages</strong></summary><br/>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="4">Languages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+          <br>Java
+        </td>
+        <td align="center" width="333">  
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" /> 
+          <br>Python
+        </td>
+        <td align="center" width="333">  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash icon" width="65" height="65" />
+          <br>Bash
+        </td>
+        <td align="center" width="333"> 
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" /> 
+          <br>JavaScript
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="333"> 
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="65" height="65" /> 
+          <br>TypeScript
+        </td>
+        <td align="center" width="333"> 
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+          <br>C++
+        </td>
+        <td align="center" width="333"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua icon" width="65" height="65" />
+          <br>Lua
+        </td>
+        <td align="center" width="333"> 
+          <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift icon" width="65" height="65" />
+          <br>Swift
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <table>
@@ -122,7 +118,9 @@
   </tbody>
 </Table>
 <br/>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
   
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <Table>
   <thead>
     <tr>
@@ -153,7 +151,9 @@
   </tbody>
 </Table>
 <br/>
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 
+<!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <Table>
   <thead>
     <tr>

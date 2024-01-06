@@ -37,7 +37,7 @@
 <div>
 
   <div align="start">
-  <details>
+  <details align="start">
   <summary>Java</summary>
 
     - Spring Boot
@@ -47,7 +47,7 @@
   </div>
 
   <div align="center">
-  <details>
+  <details align="center">
   <summary>Java</summary>
 
     - Spring Boot
@@ -57,7 +57,7 @@
   </div>
 
   <div align="end">
-  <details>
+  <details align="end">
   <summary>Java</summary>
 
     - Spring Boot

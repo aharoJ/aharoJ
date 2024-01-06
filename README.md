@@ -132,10 +132,10 @@
 
 
 
-| First Header  | Second Header |
+| JavaScript & Typescript  | Machine Learning |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| apple redesign  | Depp Neural Network  |
+| Twitter  | Capstone Project  |
 
 
 

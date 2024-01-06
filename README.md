@@ -55,19 +55,22 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
       <td align="center" width="333">  
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="icon" width="65" height="65" />
       </td>
       <td align="center" width="333"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
       </td>
     </tr>
     <tr> 
       <td align="center" width="333">Java</td>
       <td align="center" width="333">Python</td>
+      <td align="center" width="333">Bash</td>
       <td align="center" width="333">JavaScript</td>
-      <td align="center" width="333">TypeScript</td>
     </tr>
     <tr>
+      <td align="center" width="333"> 
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> 
+      </td>
       <td align="center" width="333"> 
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       </td>
@@ -82,9 +85,9 @@
       </td>
     </tr>
     <tr> 
+      <td align="center" width="333">TypeScript</td>
       <td align="center" width="333">C++</td>
       <td align="center" width="333">Swift</td>
-      <td align="center" width="333">Bash</td>
       <td align="center" width="333">Lua</td>
     </tr>
   </tbody>

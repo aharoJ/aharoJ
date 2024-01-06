@@ -217,7 +217,7 @@
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h2 align="center">Open Source Software</h2>
+        <h2 align="center">Dotfiles</h2>
         <p align="center">
           <a href="https://github.com/aharoJ/dotfiles">
             <img style="display: block; margin: 0 auto;" 
@@ -226,7 +226,7 @@
         </p>
       </td>
       <td valign="top" width="33%">
-        <h2 align="center">starship</h2>
+        <h2 align="center">Starship</h2>
         <p align="center">
           <a href="https://github.com/aharoJ/dot-starship">
             <img style="display: block; margin: 0 auto;" 
@@ -235,7 +235,7 @@
         </p>
       </td>
       <td valign="top" width="33%">
-        <h2 align="center">nextJs portfolio</h2>
+        <h2 align="center">Portfolio</h2>
         <p align="center">
           <a href="https://github.com/aharoJ/nextJs_portfolio">
             <img style="display: block; margin: 0 auto;" 

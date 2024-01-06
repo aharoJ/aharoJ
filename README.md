@@ -195,7 +195,7 @@
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 <details>
-  <summary><strong>Frontend</strong></summary><br/>
+  <summary><strong>Operating Systems</strong></summary><br/>
     <Table>
     <thead>
       <tr>

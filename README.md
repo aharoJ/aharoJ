@@ -217,7 +217,7 @@
   <table>
     <tr>
       <td valign="top" width="33%">
-        <h3 align="center">Dotfiles</h3>
+        <h4 align="center">Dotfiles</h4>
         <p align="center">
           <a href="https://github.com/aharoJ/dotfiles">
             <img style="display: block; margin: 0 auto;" 
@@ -226,7 +226,7 @@
         </p>
       </td>
       <td valign="top" width="33%">
-        <h3 align="center">Starship</h3>
+        <h4 align="center">Starship</h4>
         <p align="center">
           <a href="https://github.com/aharoJ/dot-starship">
             <img style="display: block; margin: 0 auto;" 
@@ -235,7 +235,7 @@
         </p>
       </td>
       <td valign="top" width="33%">
-        <h3 align="center">Portfolio</h3>
+        <h4 align="center">Portfolio</h4>
         <p align="center">
           <a href="https://github.com/aharoJ/nextJs_portfolio">
             <img style="display: block; margin: 0 auto;" 

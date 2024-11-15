@@ -153,7 +153,7 @@
       <tr>
         <td align="center" width="333">  
           <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  alt="React icon" width="65" height="65" /> -->
-          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="React icon" width="65" height="65" />
+          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"  alt="React icon" width="65" height="65" />
         </td>
         <td align="center" width="333">  
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="65" height="65" />

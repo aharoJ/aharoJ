@@ -161,15 +161,15 @@
         <td align="center" width="333">  
           <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux icon" width="65" height="65" /> 
         </td>
-        <!-- <td align="center" width="333">   -->
-        <!--   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="65" height="65" />  -->
-        <!-- </td> -->
+        <td align="center" width="333">  
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Prettier icon" width="65" height="65" /> 
+        </td>
       </tr>
       <tr>
         <td align="center" width="333">TailwindCSS</td>
         <td align="center" width="333">React</td>
         <td align="center" width="333">Redux</td>
-        <!-- <td align="center" width="333">Prettier</td> -->
+        <td align="center" width="333">Next.js</td>
       </tr>
     </tbody>
   </Table>
